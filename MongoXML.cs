@@ -165,6 +165,13 @@ namespace MongoInfo
                 MessageBox.Show("节点已存在，请设置其他的名称！");
         }
 
+        private string XmlNode(string name)
+        {
+            string nodestr = string.Empty;
+
+            return nodestr;
+        }
+
 
         public string GetjobId()
         {
