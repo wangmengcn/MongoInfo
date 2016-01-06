@@ -6,6 +6,9 @@ using MongoDB;
 
 namespace MongoInfo
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class Getinfo
     {
         private MongoOperation _mp;
@@ -78,7 +81,10 @@ namespace MongoInfo
             _mp.Connect2Mongo();
         }
 
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         //用于获取所有任务ID
         public List<string> GetAllTasks()
         {
