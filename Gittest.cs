@@ -5,6 +5,14 @@
     /// </summary>
     class Gittest
     {
-        
+        public Gittest(string str,int tims)
+        {
+
+        }
+
+        public override string ToString()
+        {
+            return $"";
+        }
     }
 }
