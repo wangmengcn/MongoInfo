@@ -1,0 +1,15 @@
+D:\CODE\MongoInfo\MongoInfo\bin\Debug\MongoInfo.dll
+D:\CODE\MongoInfo\MongoInfo\bin\Debug\MongoInfo.pdb
+D:\CODE\MongoInfo\MongoInfo\bin\Debug\MongoDB.Bson.dll
+D:\CODE\MongoInfo\MongoInfo\bin\Debug\MongoDB.dll
+D:\CODE\MongoInfo\MongoInfo\bin\Debug\MongoDB.Driver.dll
+D:\CODE\MongoInfo\MongoInfo\bin\Debug\MongoDB.GridFS.dll
+D:\CODE\MongoInfo\MongoInfo\bin\Debug\MongoDB.Bson.pdb
+D:\CODE\MongoInfo\MongoInfo\bin\Debug\MongoDB.Bson.xml
+D:\CODE\MongoInfo\MongoInfo\bin\Debug\MongoDB.Driver.pdb
+D:\CODE\MongoInfo\MongoInfo\bin\Debug\MongoDB.Driver.xml
+D:\CODE\MongoInfo\MongoInfo\obj\Debug\MongoInfo.dll
+D:\CODE\MongoInfo\MongoInfo\obj\Debug\MongoInfo.pdb
+D:\CODE\MongoInfo\MongoInfo\bin\Debug\MongoInfo.dll.CodeAnalysisLog.xml
+D:\CODE\MongoInfo\MongoInfo\bin\Debug\MongoInfo.dll.lastcodeanalysissucceeded
+D:\CODE\MongoInfo\MongoInfo\bin\Debug\System.Net.Http.dll
