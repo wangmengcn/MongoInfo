@@ -11,5 +11,4 @@ D:\CODE\MongoInfo\MongoInfo\bin\x86\Debug\MongoDB.Driver.pdb
 D:\CODE\MongoInfo\MongoInfo\bin\x86\Debug\MongoDB.Driver.xml
 D:\CODE\MongoInfo\MongoInfo\obj\x86\Debug\MongoInfo.dll
 D:\CODE\MongoInfo\MongoInfo\obj\x86\Debug\MongoInfo.pdb
-D:\CODE\MongoInfo\MongoInfo\bin\x86\Debug\MongoInfo.dll.CodeAnalysisLog.xml
-D:\CODE\MongoInfo\MongoInfo\bin\x86\Debug\MongoInfo.dll.lastcodeanalysissucceeded
+D:\CODE\MongoInfo\MongoInfo\obj\x86\Debug\MongoInfo.csprojResolveAssemblyReference.cache
