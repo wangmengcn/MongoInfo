@@ -173,8 +173,7 @@ namespace MongoInfo
         public void ReturnValue(string taskid, bool yesorno, string comment)
         {
             _mp.UseCollection("研判任务");
-            var share = new Document();
-            share["SJTaskID"] = taskid;
+            var share = new Document {["SJTaskID"] = taskid};
             var sharecur = _mp.QuryMsg(share);
             Document returndoc = null;
             foreach (var doc in sharecur.Documents)
